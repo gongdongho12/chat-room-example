@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
+  "type": "module",
   "dependencies": {
     "express": "^4.13.4",
     "http": "^0.0.1-security",
